@@ -1,4 +1,4 @@
-import request
+import requests
 
 cams_setting = {
 	'cam1': 'http://user:camera46@192.168.0.46/axis-cgi/jpg/image.cgi?resolution=320x180',
